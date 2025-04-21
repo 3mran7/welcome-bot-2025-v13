@@ -1,6 +1,6 @@
-# 🤖 Suggestions Bot
+# 🤖 Welcome Bot
 
-A powerful Discord bot that manages server suggestions with advanced features and customization options.
+A powerful Discord bot that manages server Welcome with advanced features and customization options.
 
 <div align="center">
   <img src="https://images-ext-1.discordapp.net/external/cmMlqNBayVXYs3Z-iu_gONR8AxsgwrFtqfixRkTqlI8/%3Fsize%3D4096/https/cdn.discordapp.com/banners/880010973216387193/f117e53adb75b33f351234335cda99dc.webp?format=webp" alt="Suggestions Bot Banner" width="600"/>
